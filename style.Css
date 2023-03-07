@@ -22,8 +22,7 @@
     padding: 0px;
 }
 
-/* Asterísco seleciona todos os elementos do html */
-/* A var "Color" é a cor da fonte (não esquece) */
+/* Nota para ref futura asterísco seleciona todos os elementos do html */
 
 body {
     font-family: var(--fonte-destaque);
